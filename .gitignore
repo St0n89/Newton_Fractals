@@ -1,0 +1,6 @@
+# the script's own output
+*.bmp
+
+# OS junk
+.DS_Store
+Thumbs.db
